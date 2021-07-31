@@ -1,9 +1,9 @@
-## World_Weather_Analysis
+# World_Weather_Analysis Continued
 
-# Project Purpose
+## Project Purpose
 The purpose of this project is to continue to improve the PlanMyTrip app by:
 
-•	Adding the weather description to th eweather data previously retrieved
+•	Adding the weather description to the weather data previously retrieved
 
 •	Creating input statements to filter traveler weather preferences
 
@@ -13,7 +13,7 @@ The purpose of this project is to continue to improve the PlanMyTrip app by:
 
 •	Creating a map showing the travel route between the four cities and creating a marker layer map.
 
-# Project Deliverables
+## Project Deliverables
     
 Weather_Database folder with the following:
 
@@ -22,12 +22,12 @@ Weather_Database folder with the following:
 
 Vacation_Search folder with the following:
 
-1.  The Vacation_Search.ipynb file
-2.  The WeatherPy_vacation.csv file
-3.  The WeatherPy_vacation_map.png image
+1.  Vacation_Search.ipynb file
+2.  WeatherPy_vacation.csv file
+3.  WeatherPy_vacation_map.png image
 
-The Vacation_Itinerary folder with the following:
+Vacation_Itinerary folder with the following:
 
-1.  The Vacation_Itinerary.ipynb file
-2.  The WeatherPy_travel_map.png image
-3.  The WeatherPy_travel_map_markers.png image    
+1.  Vacation_Itinerary.ipynb file
+2.  WeatherPy_travel_map.png image
+3.  WeatherPy_travel_map_markers.png image    
